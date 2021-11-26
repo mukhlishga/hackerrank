@@ -1,0 +1,5 @@
+select city, state from station;
+
+or
+
+select s.city, s.state from station s;
